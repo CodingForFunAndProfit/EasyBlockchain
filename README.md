@@ -1,0 +1,2 @@
+# EasyBlockchain
+An easy blockchain
